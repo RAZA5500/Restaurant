@@ -1,3 +1,3 @@
 # RESTAURANT - WEB - BY - RAZA 
-# DEPLOY LINK 👉
+# DEPLOY LINK 👇
 https://raza5500.github.io/Restaurant/
